@@ -1,0 +1,9 @@
+Automatisation MGMERL avec Python & Streamlit
+
+J'ai développé un prototype de dashboard permettant d'automatiser le passage des données terrain au reporting MGMERL : contrôle des activités et unités, détection des doublons, cohérence des bénéficiaires, calcul des indicateurs, performance des agents terrain et traçabilité.
+
+La démonstration utilise 5 000 formulaires entièrement synthétiques et anonymisés.
+
+Technologies : Python | Pandas | Streamlit | Data Quality | MEAL Automation
+
+#MGMERL #MEAL #Python #Streamlit #DataQuality #MonitoringAndEvaluation
